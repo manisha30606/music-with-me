@@ -1,0 +1,9 @@
+I am building a fully collaborative social music application using the MERN stack.
+
+The app allows users to sign up and log in, create or join music rooms using a link or room code, and listen to YouTube songs together in real time.
+
+Rooms are collaborative like Discord: anyone can join or leave at any time, even listen alone. A room exists while it has at least one user and is automatically destroyed when the last user leaves.
+
+Inside a room, users can add YouTube songs, manage a shared queue, create and use personal playlists, react with emojis, and comment on songs or specific timestamps.
+
+The goal is to create a real-time, social, shared music-listening experience for friends.
